@@ -180,9 +180,9 @@ Het is verboden om dingen te onthouden van voor je dood/nachtmerrie bv:
 4. Een speler kan niet meer deelnemen in hetzelfde scenario in de daaropvolgende tijd. Ditzelfde geldt voor een scenario verdeeld over de komende 48 uur.
 
 --------------------------------------------------------------------------------------------------------------------------------------------
-Artikel 4: Het gebruik van voertuigen
+Artikel 3: Het gebruik van voertuigen
 
-Artikel 4.1: Voertuig gebruik: 
+Artikel 3.1: Voertuig gebruik: 
 Het gebruik van voertuigen is simpel, toch een paar regels.
 Een voertuig mag geen hogere categorie pitten of brake checke, de volgorde gaat als volgt;
 Categorie 1: Voertuig zonder motor
@@ -198,7 +198,7 @@ Enkele voorbeelden van wat nog meer niet mag:
 4. Je dient een auto te pitten en niet total loss te beuken, je speelt dus geen Rocket League.
 
 
-Artikel 4.2: Vehicle Deathmatch (VDM) (Straf Categorie 3 t/m 9)
+Artikel 3.2: Vehicle Deathmatch (VDM) (Straf Categorie 3 t/m 9)
 Je voertuig gebruiken als een wapen is ten allertijden niet toegestaan.
 
 Enkel voorbeeld van VDM:
@@ -207,7 +207,7 @@ Enkel voorbeeld van VDM:
 3.Ook als je iemand niet volledig doodrijd maar wel bewust aanrijd telt dit als VDM.
 
 
-Artikel 4.3: GTA Style Driving (Straf Categorie 3)
+Artikel 3.3: GTA Style Driving (Straf Categorie 3)
 Hieronder wordt verstaan het onrealistisch rijden met je voertuig.
 
 Enkele voorbeelden van GTA Style Driving zijn:
@@ -222,6 +222,6 @@ Enkele voorbeelden van GTA Style Driving zijn:
 8. Een rijdende blokkade is niet toegestaan.
  
 
-Artikel 4.4: Gebruik van job voertuigen bij non whitelisted jobs (Straf Categorie 2)
+Artikel 3.4: Gebruik van job voertuigen bij non whitelisted jobs (Straf Categorie 2)
 Deze voertuigen dien je voor je werk te gebruiken, niet om zo maar door de stad te rijden of mensen mee te VDMen, anders word dit bestrafd met de straf categorie van Artikel 4.2
 
