@@ -218,7 +218,7 @@ Enkele voorbeelden van GTA Style Driving zijn:
 5. Wanneer je één of meerdere lekke band(en) hebt mag je niet harder rijden als 130 km/h.
 6. Het rijden met een onroad voertuig boven de 100 km/h op een onverharde weg is niet toegestaan, rijden is toegestaan parkeren niet.
 7. Het pitten van een motor is toegestaan mits er vanaf wordt geschoten, dit is alleen toegestaan door een hoger categorie voertuig.
-         LET OP(!): Ook mag dit niet het leven in gevaar brengen van de personen op de motor, en dit wordt uitgevoerd onder de snelheid van 60kmph.
+LET OP(!): Ook mag dit niet het leven in gevaar brengen van de personen op de motor, en dit wordt uitgevoerd onder de snelheid van 60kmph.
 8. Een rijdende blokkade is niet toegestaan.
  
 
