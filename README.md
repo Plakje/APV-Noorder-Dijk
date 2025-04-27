@@ -71,8 +71,29 @@ Ook het lid / eigenaar zijn van een discord die handeld in items, geld of andere
 Artikel 1.6: Massa RDM / VDM
 Een bewuste massale moord plegen op burgers zonder reden met of zonder voertuig.
 
-
-
+var dd = {
+	content: [
+		{
+		    lineHeight: 2,
+		    text:'Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines. Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines.'
+		}
+	]
+}
+var dd = {
+	content: [
+		{
+		    lineHeight: 2,
+		    text:'Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines. Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines.'
+		}
+	]
+}var dd = {
+	content: [
+		{
+		    lineHeight: 2,
+		    text:'Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines. Another paragraph, this time a little bit longer to make sure, this line will be divided into at least two lines.'
+		}
+	]
+}
 Artikel 1.7: Ticket / Refund fraude
 Het bewust informatie achterhouden, manipuleren of andere vorm van fraude is niet toegstaan in tickets.
 Ook het meerdere keren indienden van refund betreft dezelfde situatie, om bijv. zo meerdere refunds te krijgen is niet toegestaan. (edited)
