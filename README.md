@@ -401,11 +401,17 @@ Basis van de onderwereld
 19. Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
 20. Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
 21. Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
+
 -Criminele activiteiten uitvoeren zoals bijv. oplichting en dan je appartement betreden is verboden.
+
 -Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
+
 22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
+
 -Snel je kleding te veranderen.
+
 -Je huidige auto in de garage zetten en een nieuwe auto pakken.
+
 -Je appartement in vluchten.
    LET OP(!): Je mag een van de bovenstaande handelingen na een achtervolging uitvoeren pas zodra je de achtervolgers hebt afgeschud.
 23. Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
@@ -413,10 +419,13 @@ Basis van de onderwereld
   LET OP(!): Je mag deze wapen(s) 5 minuten nadat de rivaliserende gang hun wapen(s) hebben terugveroverd van de politie pas proberen te rippen.
 25. Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
 26.Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
-o Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
-o Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
-o Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen!
-    o LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
+
+- Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
+
+- Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
+
+- Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen   
+ LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
 27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
 28. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
 29. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
@@ -430,42 +439,31 @@ o Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs
 
 
 Artikel 10.1A: Criminele organisaties (Straf Categorie – Onderwereld Coördinatoren bepalen)
-- Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
-- Het meelopen met een gang mag enkel als hier plek voor is.
+Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen. Het meelopen met een gang mag enkel als hier plek voor is.
+
 Meer informatie over het samenwerken van criminele organisaties
 
-- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
- -Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Future.
-- Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
-- Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
+Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
+1. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Future.
+2. Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
+3. Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
  
-
-1
-1
-1
-1
-1
-1
-
-
-
 
 Artikel 10.1B: Gang wars (Straf Categorie – Onderwereld Coördinatoren bepalen)
 Hierbij een korte uitleg en regels van een gang war:
 
-Initiatie
-
+-Initiatie
 Enkel leiders van criminele groeperingen (hierna: Gang Bazen) zijn in staat om de oorlog tussen twee gangs te verklaren.
-Levens
 
+-Levens
 Alle leden die in éen gang war mee doen, heeft 1 leven. Zodra je dood bent, is het verboden om nogmaals te mengen in de oorlog (new life rule.)
-Kills van politie
 
+-Kills van politie
 Zoals hierboven beschreven tellen kills van politie ook mee in een gang war omdat dit in hetzelfde tijdsperiode gebeurt.
-Beëindiging
 
-Een gangwar zal opgeschort worden als deze langer dan 48 uur heeft geduurd, als 1 van de 2 gangs zich overgeeft, of als alle leden van 1 gang hun levens hebben verbruikt.
-Indien je onbewust voor de 2de keer wordt doodgeschoten in een gang war omdat je op een bepaalde plek bent, is dit op eigen risico. Ben je dood geweest in een gang war en ga je voor de 2de keer mengen zal dit bestrafd worden.
+-Beëindiging
+1.Een gangwar zal opgeschort worden als deze langer dan 48 uur heeft geduurd, als 1 van de 2 gangs zich overgeeft, of als alle leden van 1 gang hun levens hebben verbruikt.
+2.Indien je onbewust voor de 2de keer wordt doodgeschoten in een gang war omdat je op een bepaalde plek bent, is dit op eigen risico. Ben je dood geweest in een gang war en ga je voor de 2de keer mengen zal dit bestrafd worden.
  
 
 Artikel 10.1C: Wraakacties (Straf Categorie – Onderwereld Coördinatoren bepalen)
