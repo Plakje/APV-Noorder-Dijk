@@ -12,8 +12,8 @@ Enkele voorbeelden van Cheats/Externe Software zijn:
 5. Stretched spelen – Bij Future is alleen Aspect Ratio 16:10 en 16:9 toegestaan.
 6. Het gebruik van BetterDiscord.
 7. Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
- 
- 
+ \u200B
+\u200B
 Artikel 1.1.1: PC Checks | Controle op Cheats
 Wij voelen ons verantwoordelijke voor de veiligheid van onze spelers, hierdoor zijn we genoodzaakt om de onderstaande en andere checks uit te voeren bij onze spelers, dit met het doel om de veiligheid en het plezier van onze spelers te waarborgen.
 Echter behouden we wel het recht om mensen te weigeren in onze stad, als ze niet willen meewerken aan een controle op cheats.
