@@ -413,12 +413,14 @@ Basis van de onderwereld
 -Je huidige auto in de garage zetten en een nieuwe auto pakken.
 
 -Je appartement in vluchten.
-   LET OP(!): Je mag een van de bovenstaande handelingen na een achtervolging uitvoeren pas zodra je de achtervolgers hebt afgeschud.
-   
+
 23.Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
+
 24.Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
 o  LET OP(!): Je mag deze wapen(s) 5 minuten nadat de rivaliserende gang hun wapen(s) hebben terugveroverd van de politie pas proberen te rippen.
+
 25.Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
+
 26.Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
 
 - Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
