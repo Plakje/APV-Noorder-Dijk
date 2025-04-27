@@ -207,7 +207,7 @@ Enkel voorbeeld van VDM:
 3.Ook als je iemand niet volledig doodrijd maar wel bewust aanrijd telt dit als VDM.
 
 
-Artikel 3.3: GTA Style Driving (Straf Categorie 3)
+Artikel 3.3: GTA Style Driving 
 Hieronder wordt verstaan het onrealistisch rijden met je voertuig.
 
 Enkele voorbeelden van GTA Style Driving zijn:
@@ -222,14 +222,14 @@ LET OP(!): Ook mag dit niet het leven in gevaar brengen van de personen op de mo
 8. Een rijdende blokkade is niet toegestaan.
  
 
-Artikel 3.4: Gebruik van job voertuigen bij non whitelisted jobs (Straf Categorie 2)
+Artikel 3.4: Gebruik van job voertuigen bij non whitelisted jobs 
 Deze voertuigen dien je voor je werk te gebruiken, niet om zo maar door de stad te rijden of mensen mee te VDMen, anders word dit bestrafd met de straf categorie van Artikel 4.2
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Artikel 5: Het gebruik van wapens
+Artikel 4: Het gebruik van wapens
 
-Artikel 5.1: RDM (Random Death Match) (Straf Categorie 3 t/m 9)
+Artikel 4.1: RDM (Random Death Match) (Straf Categorie 3 t/m 9)
 Je dient mensen met een geldige reden om het leven te brengen.
 
 Enkele voorbeelden van een RDM:
@@ -240,7 +240,7 @@ Enkele voorbeelden van een RDM:
 5. Hij die een Callout maakt waar als gevolg een RDM ontstaat kan hier ook voor gestraft worden.
 
 
-Artikel 5.2: Wapengebruik (Straf Categorie 4)
+Artikel 4.2: Wapengebruik 
 1. Het onnodig, willekeurig, of zonder controle schieten met een vuurwapen.
 2. Het onnodig, willekeurig, of zonder controle steken/slaan met een slag/steek wapen.
 3. Wanneer omstanders Geen dekking zoeken of Niet denken aan eigen veiligheid, dan mag je jou wapen inzetten op deze personen.
@@ -256,3 +256,35 @@ Op het eiland mag je personen vermoorden als je hier geldige reden voor hebt.
 Het is niet toegestaan om op het eiland massaal een pluk te beschieten en massaal mensen te vermoorden.
 Indien personen nog niet op het eiland zijn, dus of in een heli of op een boot dan mag je een waarshuwing schot op het voertuig vuren.
 Als hier geen gehoor aan gegeven wordt mag het voertuig neergehaald / gezonken worden, of de personen gedood worden.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 5: Het gebruik van microfoon
+
+Artikel 5.1: Microfoon
+Het is voor een ieder verplicht om een werkend en goed verstaanbare microfoon te bezitten. Misbruik maken van je microfoon is verboden.
+
+Enkele voorbeelden van het misbruik van je microfoon zijn:
+1. Het earrapen van andere inwoners.
+2. Het gebruik maken van soundpads.
+
+
+Artikel 5.2: Stemherkenning
+Het is op verschillende manieren mogelijk om een persoon te herkennen aan zijn/haar stem.
+
+Herkennen van stem;
+Het is toegestaan om een persoon te herkennen aan zijn/haar stem, tenzij je de betreffende persoon helemaal niet kent.
+
+Anders praten dan normaal;
+Als je hoort dat de persoon zijn/haar best doet om anders te praten dan normaal, dan mag de stem niet herkend worden.
+
+Het gebruiken van externe software;
+Het is toegestaan om gebruik te maken van externe software om je stem te vervormen voor criminele activiteiten. Let op, dit dient normaal te blijven. Het gebruiken van robotstemmen en/of baby stemmen is derhalve verboden.
+
+
+Artikel 5.3: Het gebruiken van de Nederlandse taal
+Er wordt van alle inwoners verwacht dat zij de Nederlandse of Engelse taal beheersen. Andere talen mogen niet gebruikt worden op een provocerende en/of beledigende manier.
+
+
+Artikel 5.4: Stemvervormers
+Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding voor is. Zorg hierbij dat je enkel stemvervormers gebruikt als er genoeg redenen zijn en zorg dat het menselijk blijft klinken.
