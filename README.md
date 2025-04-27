@@ -12,7 +12,6 @@ Graphics packs – Voordeel halen uit graphics packs is niet toegestaan, zoals g
 Stretched spelen – Bij Future is alleen Aspect Ratio 16:10 en 16:9 toegestaan.
 Het gebruik van BetterDiscord.
 Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
-
 Warn + 15 Taken
 
 
