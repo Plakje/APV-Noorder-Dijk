@@ -378,32 +378,32 @@ Enkele voorbeelden van Staff abuse:
 
 Artikel 10: Onderwereld (Straf Categorie 1 t/m 9)
 Basis van de onderwereld
-o Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
-o Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden (dit is zijn/haar eigen risico).
-o Indien een persoon niet meewerkt, laat hem met rust en los het achteraf op! Als je hem/haar doodschiet zonder dat hij wat doet, zal je refund afgekeurd worden. Mocht hij doorschieten/een wapen trekken, mag je noodweer (dood schieten) gebruiken.
-o Als je iemand overvalt voor zijn/haar wapen moet het fysiek gezien zijn, callouts tellen alleen als er videobewijs is.
-o Het omzeilen van de maximale aantal leden van een groepering (23 leden +2 Hangaround), dit zal lijden tot het verliezen van de ”Officieel” status.
-o Je mag spelers niet overvallen van hun bankgeld.
-o Je mag drugsverkopers/witwassers/quicksellers alleen overvallen als je hun fysiek ziet kloppen of er videobewijs van hebt.
+1. Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
+2. Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden (dit is zijn/haar eigen risico).
+3. Indien een persoon niet meewerkt, laat hem met rust en los het achteraf op! Als je hem/haar doodschiet zonder dat hij wat doet, zal je refund afgekeurd worden. Mocht hij doorschieten/een wapen trekken, mag je noodweer (dood schieten) gebruiken.
+4. Als je iemand overvalt voor zijn/haar wapen moet het fysiek gezien zijn, callouts tellen alleen als er videobewijs is.
+5. Het omzeilen van de maximale aantal leden van een groepering (23 leden +2 Hangaround), dit zal lijden tot het verliezen van de ”Officieel” status.
+6. Je mag spelers niet overvallen van hun bankgeld.
+7. Je mag drugsverkopers/witwassers/quicksellers alleen overvallen als je hun fysiek ziet kloppen of er videobewijs van hebt.
   De deepweb mag gebruikt worden als het kenteken klopt van het desbetreffende persoon.
   LET OP(!): geen kenteken? mag jij op basis van kleur ook geript worden al heb jij er niks mee te maken.
-o Het is niet toegestaan om een OV te doen zonder wapens binnen, ook moeten er hostages aanwezig zijn.
-o Het is verboden om nep meldingen te maken op/naast terreinen van gangs, of het uitlokken van de criminelen.
-o Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen.
-o Je mag niet wapens pas wegleggen 10 minuten nadat; Je de achtervolgers hebt afgeschud; je hem voor het laatst hebt getrokken/geschoten.
-o Het is niet toegestaan om binnen 10 minuten na een shootout/achtervolging je gangterein in te gaan.
-o Het is niet toegestaan om binnen 10 minuten na een verkoop / witwass actie, de buit te stashen zodat andere dit niet meer kunnen rippen.
-o Slag/steekwapens mogen geen vuurwapens rippen, je mag dus enkel een vuurwapen stelen met een ander vuurwapen.
-o  Het is niet toegestaan om weg te rennen van een slag/steekwapen als deze binnen steek-/slaglengte is ookal heb jij een vuurwapen.
-o Het is niet toegestaan om je snijbrander te abusen.
-o Het is niet toegestaan om je auto op slot te doen binnen 5 minuten nadat hij is opengebrand.
-o Onder dwang iemand zijn huis betreden om leeg te roven.
-o Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
-o Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
-o Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
+8. Het is niet toegestaan om een OV te doen zonder wapens binnen, ook moeten er hostages aanwezig zijn.
+9. Het is verboden om nep meldingen te maken op/naast terreinen van gangs, of het uitlokken van de criminelen.
+10. Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen.
+11. Je mag niet wapens pas wegleggen 10 minuten nadat; Je de achtervolgers hebt afgeschud; je hem voor het laatst hebt getrokken/geschoten.
+12. Het is niet toegestaan om binnen 10 minuten na een shootout/achtervolging je gangterein in te gaan.
+13. Het is niet toegestaan om binnen 10 minuten na een verkoop / witwass actie, de buit te stashen zodat andere dit niet meer kunnen rippen.
+14. Slag/steekwapens mogen geen vuurwapens rippen, je mag dus enkel een vuurwapen stelen met een ander vuurwapen.
+15. Het is niet toegestaan om weg te rennen van een slag/steekwapen als deze binnen steek-/slaglengte is ookal heb jij een vuurwapen.
+16. Het is niet toegestaan om je snijbrander te abusen.
+17. Het is niet toegestaan om je auto op slot te doen binnen 5 minuten nadat hij is opengebrand.
+18. Onder dwang iemand zijn huis betreden om leeg te roven.
+19. Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
+20. Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
+21. Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
    -Criminele activiteiten uitvoeren zoals bijv. oplichting en dan je appartement betreden is verboden.
    -Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
-o Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
+22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
  -Snel je kleding te veranderen.
  -Je huidige auto in de garage zetten en een nieuwe auto pakken.
  -Je appartement in vluchten.
