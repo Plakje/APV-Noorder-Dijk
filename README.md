@@ -406,53 +406,55 @@ Basis van de onderwereld
 
 -Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
 
-23. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
-    -Snel je kleding te veranderen.
-    -Je huidige auto in de garage zetten en een nieuwe auto pakken.
-    -Je appartement in vluchten.
-1
-1
-1
-    1
+22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
+
+-Snel je kleding te veranderen.
+
+-Je huidige auto in de garage zetten en een nieuwe auto pakken.
+
+-Je appartement in vluchten.
    LET OP(!): Je mag een van de bovenstaande handelingen na een achtervolging uitvoeren pas zodra je de achtervolgers hebt afgeschud.
-Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
-Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
+23. Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
+24. Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
   LET OP(!): Je mag deze wapen(s) 5 minuten nadat de rivaliserende gang hun wapen(s) hebben terugveroverd van de politie pas proberen te rippen.
-Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
-Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
+25. Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
+26. Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
+
 -Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
+
 -Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
+
 -Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen!
      LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
-Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
-Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
-Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
-Er zit geen maximum bedrag aan het scammen in de onderwereld.
-Vuurwapens mogen alle vuurwapens rippen.
-Het Campen van start locaties is niet toegestaan.
-Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
+27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
+28. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
+29. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
+30. Er zit geen maximum bedrag aan het scammen in de onderwereld.
+31. Vuurwapens mogen alle vuurwapens rippen.
+32. Het Campen van start locaties is niet toegestaan.
+33. Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
   LET OP(!): Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als doel deze in dienst te melden om zodoende iemand uit de gevangenis te breken.
-Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
+34. Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
   LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
 
 
 Artikel 10.1A: Criminele organisaties (Straf Categorie – Onderwereld Coördinatoren bepalen)
-o Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
-o Het meelopen met een gang mag enkel als hier plek voor is.
+- Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
+- Het meelopen met een gang mag enkel als hier plek voor is.
 Meer informatie over het samenwerken van criminele organisaties
 
-o Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
+- Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
  -Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Future.
-o Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
-o Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
+- Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
+- Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
  
 
-
-
-
-
-
-
+1
+1
+1
+1
+1
+1
 
 
 
