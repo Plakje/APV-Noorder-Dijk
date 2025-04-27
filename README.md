@@ -13,7 +13,7 @@ Enkele voorbeelden van Cheats/Externe Software zijn:
 6. Het gebruik van BetterDiscord.
 7. Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
 
-.
+&ZeroWidthSpace;
 
 Artikel 1.1.1: PC Checks | Controle op Cheats
 Wij voelen ons verantwoordelijke voor de veiligheid van onze spelers, hierdoor zijn we genoodzaakt om de onderstaande en andere checks uit te voeren bij onze spelers, dit met het doel om de veiligheid en het plezier van onze spelers te waarborgen.
