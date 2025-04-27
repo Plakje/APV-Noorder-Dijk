@@ -401,17 +401,11 @@ Basis van de onderwereld
 19. Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
 20. Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
 21. Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
-
 -Criminele activiteiten uitvoeren zoals bijv. oplichting en dan je appartement betreden is verboden.
-
 -Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
-
 22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
-
 -Snel je kleding te veranderen.
-
 -Je huidige auto in de garage zetten en een nieuwe auto pakken.
-
 -Je appartement in vluchten.
    LET OP(!): Je mag een van de bovenstaande handelingen na een achtervolging uitvoeren pas zodra je de achtervolgers hebt afgeschud.
 23. Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
@@ -419,11 +413,8 @@ Basis van de onderwereld
   LET OP(!): Je mag deze wapen(s) 5 minuten nadat de rivaliserende gang hun wapen(s) hebben terugveroverd van de politie pas proberen te rippen.
 25. Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
 26. Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
-
 -Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
-
 -Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
-
 -Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen!
      LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
 27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
