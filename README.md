@@ -288,3 +288,302 @@ Er wordt van alle inwoners verwacht dat zij de Nederlandse of Engelse taal behee
 
 Artikel 5.4: Stemvervormers
 Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding voor is. Zorg hierbij dat je enkel stemvervormers gebruikt als er genoeg redenen zijn en zorg dat het menselijk blijft klinken.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 6: Ongepast Taalgebruik
+
+Artikel 6.1: Taalgebruik (Straf Categorie CAT1:4, CAT2:5, CAT3:6)
+Hij/zij die ongepast taalgebruik gebruikt, zal worden gestraft met een ban.
+
+Enkele voorbeelden van ongepast taalgebruik zijn:
+
+Categorie – 1
+Het schelden met ziektes dat niet bedoeld is om iemand persoonlijk mee te beledigen.
+Bij overtreding: Straf volgens de 4e categorie.
+
+Categorie – 2
+Vrouwonvriendelijk gedrag vertonen.
+Iemand persoonlijk beledigen.
+Bij overtreding: Straf volgens de 4e categorie.
+
+Categorie – 3
+Racistische en/of seksistische opmerkingen;
+Iemand persoonlijk beledigen en/of zijn of haar familie erbij betrekken.
+Iemand persoonlijk beledigen met ziektes.
+Bij overtreding: Straf volgens de 6e categorie.
+LET OP(!): Dit geldt ook voor in tickets.
+
+
+Artikel 6.2: Haat veroorzakend/toxic gedrag (Straf 550 taken)
+Het is niet de bedoeling dat je toxic gedrag vertoond in scenario’s of tegen personen Bedreigen en intimideren word ook niet toegestaan.
+Dit geldt ook voor in de discord en daarbuiten.
+Verder is het niet toegestaan, om staffleden uit te schelden of te beledigen buiten of ingame.
+De uiteindelijke straf hiervan mag afwijken, dit is afhankelijk van de situatie.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 7: Twitter
+
+Het gebruik van Twitter is simpel, Het is niet de bedoeling om te spammen op Twitter.
+
+Artikel 7.1: Illegale activiteiten via Twitter (Straf Categorie 3)
+Het plaatsen van illegale activiteiten (wapenhandel, drugs, en illegale locaties) op social media (m.u.v. Dark Web & Messages) is niet toegestaan. Ook het plaatsen van codewoorden die wel oproepen tot bovengenoemde activiteiten – zoals “Gezocht: Metaal” – is verboden.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Artikel 8: Scammen (Straf Categorie 1 t/m 9)
+Het is niet toegestaan om te scammen met voertuigen.
+Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing zijn bij het uitwisselen van het geldbedrag en de auto, dit zal via een koopcontract uitgevoerd gaan worden. (te koop bij de anwb.)
+Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
+
+  
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Artikel 9: Staff & reports
+Artikel 9.1: Manier van gebruik /Report (Straf Categorie 1 t/m 2)
+
+Wanneer een burger hulp nodig heeft in de stad, dan kan er gebruik gemaakt worden van “/report (uitleg)”. Het aanmaken van slechts 1 report per 4 minuten is toegestaan.
+Reports dienen duidelijk verwoord te zijn.
+Voor RDM, VDM, metagaming en combatloggen hoef je geen report aan te maken. Hiervoor dien je een ticket aan te maken in de support Discord van Future. Wees altijd zo volledig mogelijk.
+Wanneer je meer dan 3 reports binnen 1 minuut achter elkaar verstuurt valt dit onder spammen.
+ 
+
+Artikel 9.2A: Eerlijkheid tegen staff (Straf Categorie 9)
+Het is ten allertijden verboden om te liegen tegen staff, echter is informatie achterhouden ook verboden.
+Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt.
+
+ 
+
+Artikel 9.2B: Voordoen als staff (Straf Categorie 1 t/m 3)
+Het is verboden om jezelf voor te doen als stafflid en/of uitspraken te gebruiken om als stafflid over te komen.
+
+ 
+
+Artikel 9.3: Staff abuse (Straf Categorie 9)
+Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of dergelijken.
+
+Enkele voorbeelden van Staff abuse:
+1. Spelen met Shownames
+2. Interne- en/of loginformatie doorspelen naar burgers.
+3. Perms gebruiken voor je eigen Roleplay Ervaringen.
+4. Het niet legitiem omgaan met het geven van refunds.
+5. Unbannen van mensen die dit niet horen te krijgen.
+6. Scenario’s behandelen waar zij zelf in zitten.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 10: Onderwereld (Straf Categorie 1 t/m 9)
+Basis van de onderwereld
+o Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
+o Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden (dit is zijn/haar eigen risico).
+o Indien een persoon niet meewerkt, laat hem met rust en los het achteraf op! Als je hem/haar doodschiet zonder dat hij wat doet, zal je refund afgekeurd worden. Mocht hij doorschieten/een wapen trekken, mag je noodweer (dood schieten) gebruiken.
+o Als je iemand overvalt voor zijn/haar wapen moet het fysiek gezien zijn, callouts tellen alleen als er videobewijs is.
+o Het omzeilen van de maximale aantal leden van een groepering (23 leden +2 Hangaround), dit zal lijden tot het verliezen van de ”Officieel” status.
+o Je mag spelers niet overvallen van hun bankgeld.
+o Je mag drugsverkopers/witwassers/quicksellers alleen overvallen als je hun fysiek ziet kloppen of er videobewijs van hebt.
+  De deepweb mag gebruikt worden als het kenteken klopt van het desbetreffende persoon.
+  LET OP(!): geen kenteken? mag jij op basis van kleur ook geript worden al heb jij er niks mee te maken.
+o Het is niet toegestaan om een OV te doen zonder wapens binnen, ook moeten er hostages aanwezig zijn.
+o Het is verboden om nep meldingen te maken op/naast terreinen van gangs, of het uitlokken van de criminelen.
+o Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen.
+o Je mag niet wapens pas wegleggen 10 minuten nadat; Je de achtervolgers hebt afgeschud; je hem voor het laatst hebt getrokken/geschoten.
+o Het is niet toegestaan om binnen 10 minuten na een shootout/achtervolging je gangterein in te gaan.
+o Het is niet toegestaan om binnen 10 minuten na een verkoop / witwass actie, de buit te stashen zodat andere dit niet meer kunnen rippen.
+o Slag/steekwapens mogen geen vuurwapens rippen, je mag dus enkel een vuurwapen stelen met een ander vuurwapen.
+o  Het is niet toegestaan om weg te rennen van een slag/steekwapen als deze binnen steek-/slaglengte is ookal heb jij een vuurwapen.
+o Het is niet toegestaan om je snijbrander te abusen.
+o Het is niet toegestaan om je auto op slot te doen binnen 5 minuten nadat hij is opengebrand.
+o Onder dwang iemand zijn huis betreden om leeg te roven.
+o Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
+o Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
+o Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
+   -Criminele activiteiten uitvoeren zoals bijv. oplichting en dan je appartement betreden is verboden.
+   -Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
+o Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
+ -Snel je kleding te veranderen.
+ -Je huidige auto in de garage zetten en een nieuwe auto pakken.
+ -Je appartement in vluchten.
+   LET OP(!): Je mag een van de bovenstaande handelingen na een achtervolging uitvoeren pas zodra je de achtervolgers hebt afgeschud.
+Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
+Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
+  LET OP(!): Je mag deze wapen(s) 5 minuten nadat de rivaliserende gang hun wapen(s) hebben terugveroverd van de politie pas proberen te rippen.
+Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
+Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
+ -Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
+ -Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
+ -Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen!
+   LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
+Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
+Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
+Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
+Er zit geen maximum bedrag aan het scammen in de onderwereld.
+Vuurwapens mogen alle vuurwapens rippen.
+Het Campen van start locaties is niet toegestaan.
+Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
+  LET OP(!): Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als doel deze in dienst te melden om zodoende iemand uit de gevangenis te breken.
+Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
+  LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
+
+
+Artikel 10.1A: Criminele organisaties (Straf Categorie – Onderwereld Coördinatoren bepalen)
+o Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen.
+o Het meelopen met een gang mag enkel als hier plek voor is.
+Meer informatie over het samenwerken van criminele organisaties
+
+o Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
+ -Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Future.
+o Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
+o Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
+ 
+
+
+
+
+
+
+
+
+
+
+
+Artikel 10.1B: Gang wars (Straf Categorie – Onderwereld Coördinatoren bepalen)
+Hierbij een korte uitleg en regels van een gang war:
+
+Initiatie
+
+Enkel leiders van criminele groeperingen (hierna: Gang Bazen) zijn in staat om de oorlog tussen twee gangs te verklaren.
+Levens
+
+Alle leden die in éen gang war mee doen, heeft 1 leven. Zodra je dood bent, is het verboden om nogmaals te mengen in de oorlog (new life rule.)
+Kills van politie
+
+Zoals hierboven beschreven tellen kills van politie ook mee in een gang war omdat dit in hetzelfde tijdsperiode gebeurt.
+Beëindiging
+
+Een gangwar zal opgeschort worden als deze langer dan 48 uur heeft geduurd, als 1 van de 2 gangs zich overgeeft, of als alle leden van 1 gang hun levens hebben verbruikt.
+Indien je onbewust voor de 2de keer wordt doodgeschoten in een gang war omdat je op een bepaalde plek bent, is dit op eigen risico. Ben je dood geweest in een gang war en ga je voor de 2de keer mengen zal dit bestrafd worden.
+ 
+
+Artikel 10.1C: Wraakacties (Straf Categorie – Onderwereld Coördinatoren bepalen)
+Het is alleen toegestaan om een wraakactie uit te voeren als er in roleplay bewijs is verzameld.
+
+Het is verboden om een wraakactie uit te voeren tegen whitelisted jobs.
+Het is alleen toegestaan om een wraakactie uit te voeren als er in roleplay bewijs is verzameld
+LET OP(!): De tijdsduur hiervoor is maximaal een week.
+
+ 
+
+Artikel 10.2: Fouilleren (Straf Categorie 3)
+De regels voor het fouilleren:
+
+Je kunt alleen mensen fouilleren als je in het bezit bent van een wapen.
+Bij het rippen van drugs, geld of wapens dien je visueel beeld te hebben van de persoon.
+o  Of hij/zij moet een holster, kogelwerend vest of gezichtsbedekkende kleding hebben dan hoef je een wapen niet fysiek te zien.
+ 
+
+Artikel 10.3: Het rippen van wapens & drugs (Straf Categorie 3 t/m 4)
+Wapens van elk kaliber mogen worden geript, hier nog wat kleine regels:
+
+Het is mogelijk om een wapen van groter kaliber te rippen met een kleiner kaliber wapen.
+o  Slag-/steekwapens mogen; alleen slag-/steekwapens rippen.
+LET OP(!): Je mag niet wegrennen van een mesje terwijl je een vuurwapen vast hebt, dit geldt niet op het eiland.
+
+Wat extra regels voor het rippen van een wapen(s)/drugs:
+
+Je mag geen afgenomen wapens van Politie/KMar/Recherche rippen als ze niet van jou groep/gang zijn.
+o  Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd.
+Als je iemand overvalt voor zijn/haar wapen(s) moet het fysiek gezien zijn, callouts tellen alleen als er videobewijs is dat het wapen is gezien.
+Als je iemand overvalt voor zijn/haar drugs moet je die persoon hebben zien kloppen, callouts tellen alleen als er videobewijs is dat het wapen is gezien.
+Als je een persoon doodschiet omdat hij niet meewerkt word je refund afgekeurd.
+Wanneer mag je nou precies rippen:
+
+Je mag een burger enkel overvallen/rippen wanneer hij/zij aantoonbaar met de Onderwereld bezig is.
+
+Enkele voorbeelden hiervan zijn:
+
+Als een burger de volgende kledingstukken draagt of bezig is met onderwereldse activiteiten mag de betreffende persoon overvallen worden:
+
+Gezichtsbedekkende kleding.
+Een motor helm uitgezonderd mits je op de motor zit of afstapt en je zet hem direct af.
+Het dragen van een holster.
+Een kogelwerend vest.
+Bezig zijn met drugs, verwerken / verpakken /verkopen.
+Uitstappen op een onderwereld locatie bijv. drugs pluk, witwas en verkoop.
+o  LET OP(!): Alleen langs een locatie rijden is niet genoeg, wel als je er constant blijf hangen/nadat je weg gestuurd bent.
+o  LET OP(!): Startlocaties mag je personen niet rippen/overvallen.
+Rippen / Inwoners overvallen.
+Aanwezig zijn op een verwerk/verpak locatie, stilstaan telt als aanwezig zijn. Enkel langs een locatie rijden is niet voldoende reden.
+Kloppen op een deur, langs rijden is NIET voldoende.)
+Wapen(s) vasthouden, langs rijden is NIET voldoende.
+Quicksellen, langs rijden is NIET voldoende.
+Over criminele activiteiten praten.
+Het achtervolgen van mensen met wapens. Indien iemand achtervolgt, mag hij/zij geript worden. (Achtervolging dient minimaal 1 minuut te duren.)
+LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat gebruiken.
+
+Enkele voorbeelden van wat je niet mag rippen:
+
+Van een ambtenaar in dienst mag niks afgepakt worden, tenzij hij/zij een vuur- of slagwapen van een crimineel bij zich heeft.
+Geld op de bank.
+Overheids voorwerpen (denk aan zaklampen, wapenstok etc)
+Voorwerpen die een persoon in zijn/haar huis/appartement heeft liggen.
+Voertuigen.
+Oplichting of andere trucjes, om iemand zijn voertuig af te nemen zijn verboden.
+Indien er zonder reden/onterecht geript is, zal de desbetreffende staff lid (Mod+) die de ticket behandeld je wapen waarmee je geript hebt ook afnemen.
+
+
+Weet je dat je onterecht geript word/bent? Ga dan niet een wapen trekken/schieten, zodat je hun geen extra reden geeft of je refund afgekeurd wordt (Geen eigen rechter spelen). Werkt er iemand niet mee? Loop/Rijdt gewoon weg en los het achteraf op! 
+
+Artikel 10.4: Overvallen (Straf Categorie 2 t/m 3)
+Een Jacht, Bank of winkel OV bieden wij in Future, hieronder wat regeltjes:
+
+Gegijzelde mensen mogen ten alle tijden geen vriend of bekende zijn. Er mag geen overval gestart worden binnen een uur voor een server herstart. (05.00 ~ 06.00)
+Het is niet toegestaan nadat je succesvol een overval heb gepleegd om als crimineel binnen 5 minuten in een achtervolging al een setup te zetten.
+Op het moment dat Politie | Kmar aanwezig is bij een overval, mag je niet meer de overval counteren.
+o  Je mag ook niet counteren in een achtervolging (dus ook niet om de overval blijven circuleren.)
+Om een overval te starten dienen er een bepaald aantal agenten aanwezig te zijn:
+
+Om een winkeloverval te starten dienen er 5 agenten in dienst te zijn.
+Om een woning overval te starten dienen er 6 agenten in dienst te zijn.
+Om een kleine bank overval te starten dienen er 8 agenten in dienst te zijn.
+Om een grote overval te starten (denk aan een grote bank, Humane Labs en grote scenario’s als Politie HB) dienen er 10+ agenten in dienst te zijn.
+Regels bij het krijgen van hostages:
+
+Voor het verkrijgen van hostages worden de volgende regels gehanteerd:
+
+Het gebruik maken van een “outside” hostage is niet toegestaan.
+Het gebruik maken van een kennis, vriend of familie als gijzelaar is niet toegestaan.
+Er moeten minimaal 3 agenten aanwezig zijn om iemand te gijzelen.
+Vanaf 7 aanwezige agenten mogen er ook agenten gegijzeld worden, mits er goede roleplay achter zit.
+Een onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
+ 
+
+Artikel 10.5: Criminele activiteiten tegen overheidsmedewerkers (Straf Categorie 3)
+Overheidsmedewerkers werken om de stad in veilig te houden en zijn er om alle burgers te helpen.
+Regels omtrent gedrag tegen overheidsmedewerkers.
+
+Daarom zijn er regels omtrent het gedrag tegen de overheidsmedewerkers:
+
+Het ontvoeren of doodmaken van een ANWB-medewerker, ambulance medewerker, en taxi medewerker in dienst is ten alle tijden verboden. Dit betekent overigens niet dat ambulance, ANWB, of taxipersoneel alles wat ze maar willen kunnen zeggen tegen criminelen, omdat ‘ze toch niet gepakt mogen worden’. In zulke gevallen is het wie de bal kaatst, kan hem terug verwachten.
+Een overheidsmedewerker in dienst mag niet opzettelijk geblokkeerd worden waardoor hij/zij het werk niet kan uitvoeren.
+Je mag als je geen ambtenaar bent, geen overheidsvoertuigen stelen en besturen. Tenzij je gewapend bent in een scenario.
+ 
+
+Artikel 10.6: Oplichting (Straf Categorie 6-8)
+Met betrekking tot de volgende onderdelen is oplichten verboden en resulteert in een straf:
+
+Het stelen/overvallen van bankgeld.
+Baan gerelateerde voorwerpen.
+Overheids voorwerpen.
+Onder dwang iemand zijn huis betreden om leeg te roven.
+Oplichten met autohandel is verboden. het controleren van tunes is eigen verantwoordelijkheid
+(Scammen met voertuigen zal een ban van 6 maanden + een volledige account wipe opleveren!)
+Autohandel is verboden bij illegale activiteiten.
+o  Je mag dus geen auto en geld ruilen voor een wapen.
+Oplichten van loodsen mag in alle vormen niet! (Altijd Cat-8 of hoger)
+Het joinen van een gang om vervolgens binnen 4 weken wapens of gangleden te rippen, is niet toegestaan.
+Het rippen van een eigen ganglid dat binnen 4 weken is gejoined, is niet toegestaan.
+Spullen stelen/rippen uit een appartement van iemand anders.
