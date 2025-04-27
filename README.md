@@ -178,5 +178,50 @@ Het is verboden om dingen te onthouden van voor je dood/nachtmerrie bv:
 2. Wie je van het leven heeft ontnomen.
 3. Situatie en aanleiding waarom iets heeft plaatsgevonden.
 4. Een speler kan niet meer deelnemen in hetzelfde scenario in de daaropvolgende tijd. Ditzelfde geldt voor een scenario verdeeld over de komende 48 uur.
-5. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------
+Artikel 4: Het gebruik van voertuigen
+
+Artikel 4.1: Voertuig gebruik: 
+Het gebruik van voertuigen is simpel, toch een paar regels.
+Een voertuig mag geen hogere categorie pitten of brake checke, de volgorde gaat als volgt;
+Categorie 1: Voertuig zonder motor
+Categorie 2: Motorvoertuigen
+Categorie 3: Sportauto’s en hypercars en personenauto’s, zoals Sedan en Coupé
+Categorie 4: SUVs
+Categorie 5: Bussen en vrachtwagens
+
+Enkele voorbeelden van wat nog meer niet mag:
+1. Het stelen van overheidsvoertuigen is verboden, in een scenario mag je een overheidsvoertuig stelen als vluchtauto (Hiervoor moet je een wapen op zak hebben.)
+2. Alle voertuigen mogen op Onverharde wegen rijden met een max van 100 km/u (Dit geld voor alle wegen die aangeduid zijn op de map), rijden is toegestaan parkeren niet.
+3. Het is verboden om te pitten boven de 120 km/h.
+4. Je dient een auto te pitten en niet total loss te beuken, je speelt dus geen Rocket League.
+
+
+Artikel 4.2: Vehicle Deathmatch (VDM) (Straf Categorie 3 t/m 9)
+Je voertuig gebruiken als een wapen is ten allertijden niet toegestaan.
+
+Enkel voorbeeld van VDM:
+1.Iemand die in RP niet voor je auto weg wilt om je te hinderen mag je niet bewust aanrijden.
+2.Iemand bewust doodrijden als je aan het spookrijden bent.
+3.Ook als je iemand niet volledig doodrijd maar wel bewust aanrijd telt dit als VDM.
+
+
+Artikel 4.3: GTA Style Driving (Straf Categorie 3)
+Hieronder wordt verstaan het onrealistisch rijden met je voertuig.
+
+Enkele voorbeelden van GTA Style Driving zijn:
+1. Stunt jumps nemen.
+2. Onrealistisch offroad rijden.
+3. Het rammen/onnodig beuken van andere voertuigen zonder reden.
+4. Het gebruik maken van obstakels om zo ergens overheen te jumpen of te komen met je voer/vaartuig.
+5. Wanneer je één of meerdere lekke band(en) hebt mag je niet harder rijden als 130 km/h.
+6. Het rijden met een onroad voertuig boven de 100 km/h op een onverharde weg is niet toegestaan, rijden is toegestaan parkeren niet.
+7. Het pitten van een motor is toegestaan mits er vanaf wordt geschoten, dit is alleen toegestaan door een hoger categorie voertuig.
+   LET OP(!): Ook mag dit niet het leven in gevaar brengen van de personen op de motor, en dit wordt uitgevoerd onder de snelheid van 60kmph.
+8. Een rijdende blokkade is niet toegestaan.
+ 
+
+Artikel 4.4: Gebruik van job voertuigen bij non whitelisted jobs (Straf Categorie 2)
+Deze voertuigen dien je voor je werk te gebruiken, niet om zo maar door de stad te rijden of mensen mee te VDMen, anders word dit bestrafd met de straf categorie van Artikel 4.2
+
