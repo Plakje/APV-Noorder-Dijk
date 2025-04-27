@@ -19,18 +19,22 @@ Artikel 1.1.1: PC Checks | Controle op Cheats
 Wij voelen ons verantwoordelijke voor de veiligheid van onze spelers, hierdoor zijn we genoodzaakt om de onderstaande en andere checks uit te voeren bij onze spelers, dit met het doel om de veiligheid en het plezier van onze spelers te waarborgen.
 Echter behouden we wel het recht om mensen te weigeren in onze stad, als ze niet willen meewerken aan een controle op cheats.
 
+&ZeroWidthSpace;
+
 Artikel 1.1.2: PC Checks | Virusscanner
 Het is in onze stad verplicht om Windows Defender te gebruiken als Virusscanner.
 Dit omdat het een onderdeel is van onze PC Checks (zie hierboven), maar dat is niet de enige reden.
 Wij hebben gezien dat veel spelers een gratis virusscanner gebruiken, deze bied minder functies dan Windows Defender.
- 
+
+&ZeroWidthSpace;
  
 Artikel 1.1.3: Het uitgebreid bespreken van Hide/Spoof/Cheat Methodes
 Als jij buiten of ingame over cheats/hide/spoof methodes een uitleg geeft hoe deze werken, of andere tips geeft hoe en om deze te gebruiken.
 Waar te downloaden of te kopen, of andere mensen wijzer maakt om vals te spelen op Future of FiveM.
 Zonder dat iemand van ons Staff-Team aanwezig is bij het gesprek, of zelf aanwezig is bij het gesprek en dit niet meld.
 Zal dit resulteren in een permanente verbanning
- 
+
+&ZeroWidthSpace;
 
 Artikel 1.1.4: Samenwerken met Cheaters
 Hij / Zij die actief samenwerkt met cheaters, er bewijs is dat de persoon hier van af weet is aan het samenwerken met Cheaters.
