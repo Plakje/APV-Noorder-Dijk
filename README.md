@@ -14,13 +14,14 @@ Enkele voorbeelden van Cheats/Externe Software zijn:
 7. Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
  \u200B
 \u200B~
-wowowoowow
-wowowo
+wowowoowowgfd
+wowowoufjjy
 Artikel 1.1.1: PC Checks | Controle op Cheats
 Wij voelen ons verantwoordelijke voor de veiligheid van onze spelers, hierdoor zijn we genoodzaakt om de onderstaande en andere checks uit te voeren bij onze spelers, dit met het doel om de veiligheid en het plezier van onze spelers te waarborgen.
 Echter behouden we wel het recht om mensen te weigeren in onze stad, als ze niet willen meewerken aan een controle op cheats.
- 
- 
+ dyfjftjtfyj
+ fgyjfgyjgyfjfg
+
 Artikel 1.1.2: PC Checks | Virusscanner
 Het is in onze stad verplicht om Windows Defender te gebruiken als Virusscanner.
 Dit omdat het een onderdeel is van onze PC Checks (zie hierboven), maar dat is niet de enige reden.
