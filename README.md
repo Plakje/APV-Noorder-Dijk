@@ -225,3 +225,34 @@ LET OP(!): Ook mag dit niet het leven in gevaar brengen van de personen op de mo
 Artikel 3.4: Gebruik van job voertuigen bij non whitelisted jobs (Straf Categorie 2)
 Deze voertuigen dien je voor je werk te gebruiken, niet om zo maar door de stad te rijden of mensen mee te VDMen, anders word dit bestrafd met de straf categorie van Artikel 4.2
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 5: Het gebruik van wapens
+
+Artikel 5.1: RDM (Random Death Match) (Straf Categorie 3 t/m 9)
+Je dient mensen met een geldige reden om het leven te brengen.
+
+Enkele voorbeelden van een RDM:
+1. Hij/zij die iemands leven ontneemt zonder voorafgaande roleplay, en geen intentie tot roleplay laat zien.
+2. Hij/zij die iemands leven ontneemt zonder geldige reden.
+3. Het vermoorden van burgers omdat ze geen commando’s uitvoeren, denk hierbij aan bijvoorbeeld blaffen.
+4. Het vermoorden van burgers op basis van verdenking zonder enige aanleiding.
+5. Hij die een Callout maakt waar als gevolg een RDM ontstaat kan hier ook voor gestraft worden.
+
+
+Artikel 5.2: Wapengebruik (Straf Categorie 4)
+1. Het onnodig, willekeurig, of zonder controle schieten met een vuurwapen.
+2. Het onnodig, willekeurig, of zonder controle steken/slaan met een slag/steek wapen.
+3. Wanneer omstanders Geen dekking zoeken of Niet denken aan eigen veiligheid, dan mag je jou wapen inzetten op deze personen.
+
+Bij overtreding: Straf volgens de 4e categorie.
+
+LET OP(!): Het is mogelijk dat wanneer een burger zijn/haar wapen misbruikt, deze ingenomen word door een staff-lid.
+
+Deze regel is bedoeld om mensen te beschermen die niks met jou scenario te maken hebben, en om te voorkomen dat iedereen zomaar gaat schieten en steken. Wapens zijn bedoeld om een Roleplay senario te starten, verbeteren of ander ondersteunend onderdeel te zijn van Roleplay.
+Op het moment dat er wapens worden gebruikt voor andere doeleindes kan dit artikel worden toegepast, ga dus fatsoenlijk met wapens om.
+
+Op het eiland mag je personen vermoorden als je hier geldige reden voor hebt.
+Het is niet toegestaan om op het eiland massaal een pluk te beschieten en massaal mensen te vermoorden.
+Indien personen nog niet op het eiland zijn, dus of in een heli of op een boot dan mag je een waarshuwing schot op het voertuig vuren.
+Als hier geen gehoor aan gegeven wordt mag het voertuig neergehaald / gezonken worden, of de personen gedood worden.
