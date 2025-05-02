@@ -378,40 +378,54 @@ Enkele voorbeelden van Staff abuse:
 
 Artikel 10: Onderwereld
 Basis van de onderwereld
+
 1. Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
+
 2. Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden (dit is zijn/haar eigen risico).
+
 3. Indien een persoon niet meewerkt, laat hem met rust en los het achteraf op! Als je hem/haar doodschiet zonder dat hij wat doet, zal je refund afgekeurd worden. Mocht hij doorschieten/een wapen trekken, mag je noodweer (dood schieten) gebruiken.
+
 4. Als je iemand overvalt voor zijn/haar wapen moet het fysiek gezien zijn, callouts tellen alleen als er videobewijs is.
+
 5. Het omzeilen van de maximale aantal leden van een groepering (23 leden +2 Hangaround), dit zal lijden tot het verliezen van de ”Officieel” status.
+
 6. Je mag spelers niet overvallen van hun bankgeld.
+
 7. Je mag drugsverkopers/witwassers/quicksellers alleen overvallen als je hun fysiek ziet kloppen of er videobewijs van hebt.
   De deepweb mag gebruikt worden als het kenteken klopt van het desbetreffende persoon.
   LET OP(!): geen kenteken? mag jij op basis van kleur ook geript worden al heb jij er niks mee te maken.
+
 8. Het is niet toegestaan om een OV te doen zonder wapens binnen, ook moeten er hostages aanwezig zijn.
+
 9. Het is verboden om nep meldingen te maken op/naast terreinen van gangs, of het uitlokken van de criminelen.
+
 10. Wanneer je met meerdere mensen gaat rippen, mag je niet dezelfde mensen rippen.
+
 11. Je mag niet wapens pas wegleggen 10 minuten nadat; Je de achtervolgers hebt afgeschud; je hem voor het laatst hebt getrokken/geschoten.
+
 12. Het is niet toegestaan om binnen 10 minuten na een shootout/achtervolging je gangterein in te gaan.
+
 13. Het is niet toegestaan om binnen 10 minuten na een verkoop / witwass actie, de buit te stashen zodat andere dit niet meer kunnen rippen.
+
 14. Slag/steekwapens mogen geen vuurwapens rippen, je mag dus enkel een vuurwapen stelen met een ander vuurwapen.
+
 15. Het is niet toegestaan om weg te rennen van een slag/steekwapen als deze binnen steek-/slaglengte is ookal heb jij een vuurwapen.
+
 16. Het is niet toegestaan om je snijbrander te abusen.
+
 17. Het is niet toegestaan om je auto op slot te doen binnen 5 minuten nadat hij is opengebrand.
+
 18. Onder dwang iemand zijn huis betreden om leeg te roven.
+
 19. Een bounty op iemand zetten is niet toegestaan. Wel is het toegestaan om een beloning op iemand te zetten om te ontvoeren, zodat jij desbetreffende persoon bijvoorbeeld kan verhoren.
+
 20. Wanneer iemand geboeid is, kan hij/zij niet meer via de telefoon of portofoon communiceren met andere burgers. Als overheidsmedewerker kan je ook geen noodknop meer gebruiken. Let op! Je mag geen burger/crimineel achter laten met boeien om! Bij Politie/Kmar mag je hem een noodknop laten indrukken of je zult hem moeten ontboeien.
+
 21. Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
 
--Criminele activiteiten uitvoeren zoals bijv. oplichting en dan je appartement betreden is verboden.
-
--Het uitnodigen van iemand tot je Appartement is op eigen risico, en zal nooit tot een refund resulteren.
-
 22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
-
 -Snel je kleding te veranderen.
-
 -Je huidige auto in de garage zetten en een nieuwe auto pakken.
-
 -Je appartement in vluchten.
 
 23.Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
@@ -422,21 +436,26 @@ Basis van de onderwereld
 
 26.Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
 - Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
-
 - Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
-
 - Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen   
  LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat gebruiken.
+
 27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
+
 28. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
+
 29. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
+
 30. Er zit geen maximum bedrag aan het scammen in de onderwereld.
+
 31. Vuurwapens mogen alle vuurwapens rippen.
+
 32. Het Campen van start locaties is niet toegestaan.
+
 33. Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
   LET OP(!): Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als doel deze in dienst te melden om zodoende iemand uit de gevangenis te breken.
 34. Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
-  LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
+LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
 
 
 Artikel 10.1A: Criminele organisaties 
@@ -627,10 +646,10 @@ LET OP(!): Er is wel meer wat onder corruptie valt; laten we het erophouden dat 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Artikel 14: Regels in de lucht
+Artikel 13: Regels in de lucht
 Het is enkel toegestaan om te vliegen met een geldig vliegbrevet!
 
-Artikel 14.1: Landen 
+Artikel 13.1: Landen 
 U probeert alleen op plekken te landen waar dit in de realiteit ook mogelijk is. Hierbij denk u aan ruimte, eigen veiligheid en de veiligheid van het toestel. De ondergrond moet aan de volgende eisen voldoen:
 
 Hierbij de eisen waar je aan moet voldoen:
@@ -642,11 +661,11 @@ Hierbij de eisen waar je aan moet voldoen:
 Bij het achterlaten van een onbemand voertuig op een ongeschikte locatie is de Politie bevoegd het voertuig in beslag te nemen. (Dit moet goedgekeurd worden op een locatie door een Hovj+ of een Senior vlieginstructeur)
 
 
-Artikel 14.2: Vlieghoogte 
+Artikel 13.2: Vlieghoogte 
 U dient de gehele vlucht op een realistische en veilige hoogte te blijven. (50 meter boven het gebouw onder je of van een gebouw af)
 
 
-Artikel 14.3: Terreur met vliegtoestel 
+Artikel 13.3: Terreur met vliegtoestel 
 Het is op geen enkele manier toegestaan om je vliegtoestel ergens tegenaan te beuken met opzet en of te gebruiken als een wapen.
 Regels op het Duistere Eiland voor vliegtoestellen zoals aangegeven in Artikel 12.4 
 1. De landingslocatie moet vrij zijn van objecten die mogelijk hinder vormen binnen een straal van 50 meter, denk hierbij aan powerlines, daken, lantaarnpalen.
