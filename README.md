@@ -32,7 +32,7 @@ Wij hebben gezien dat veel spelers een gratis virusscanner gebruiken, deze bied 
  
 Artikel 1.1.3: Het uitgebreid bespreken van Hide/Spoof/Cheat Methodes
 Als jij buiten of ingame over cheats/hide/spoof methodes een uitleg geeft hoe deze werken, of andere tips geeft hoe en om deze te gebruiken.
-Waar te downloaden of te kopen, of andere mensen wijzer maakt om vals te spelen op Future of FiveM.
+Waar te downloaden of te kopen, of andere mensen wijzer maakt om vals te spelen op Noorderdijk of FiveM.
 Zonder dat iemand van ons Staff-Team aanwezig is bij het gesprek, of zelf aanwezig is bij het gesprek en dit niet meld.
 Zal dit resulteren in een permanente verbanning
 
@@ -55,13 +55,13 @@ Het is niet toegestaan om de speeltijd zonder enige doel af te wachten en dan al
  
 
 Artikel 1.4: Weggeven van goederen bij het stoppen
-Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Future of een lange pauze neemt.
+Het is verboden om je spullen weg te geven aan een vriend(in), als jij stopt met Noorderdijk of een lange pauze neemt.
 Het aannemen van goederen van iemand die stopt is ook verboden.
 
  
 Artikel 1.5: IRL Trading
 Het verhandelen van artikelen, diensten, geld en accounts is ten strengste verboden.
-Ook het lid / eigenaar zijn van een discord die handeld in items, geld of andere Future Roleplay spullen is verboden.
+Ook het lid / eigenaar zijn van een discord die handeld in items, geld of andere Noorderdijk Roleplay spullen is verboden.
 
  
 Artikel 1.6: Massa RDM / VDM
@@ -617,12 +617,9 @@ Wat valt allemaal onder corruptie?:
 1. Op het moment dat je geld betaald aan een Ambulancier, Politie, KMAR of ANWBer om eerder naar een melding te komen of een Prive bericht te sturen krijg je hiervoor een sanctie.
 2. Op het moment dat je geld aanneemt om eerder naar een melding te gaan als Ambulancier, Politie, KMAR of ANWBer.
 3. Money Farmen bij een overheidsbaan.
-4. Het doen van criminele zaken als uitdienst overheidsbaan.
-  Met mensen in de auto zitten die criminele zaken doen is ook verboden.
+4. Het doen van criminele zaken als uitdienst overheidsbaan,met mensen in de auto zitten die criminele zaken doen is ook verboden.
 5.Het hangen op gang terrein in-/uitdienst, je mag wel gewoon je meldingen daar doen.
-6.Het verduisteren van items of geld als politie/kmar. Zeer gevoelige informatie doorspelen naar onderwereld spelers, denk hierbij aan;
-  MEOS informatie doorspelen.
-  Documenten/Informatie doorspelen.
+6.Het verduisteren van items of geld als politie/kmar. Zeer gevoelige informatie doorspelen naar onderwereld spelers.
 7.Het is niet de bedoeling dat je in dienst auto’s gaat kopen of testen.
 8.Het is verboden om hulpdiensten toe te sporen tot corruptie.
 LET OP(!): Er is wel meer wat onder corruptie valt; laten we het erophouden dat alles wat jou diensten zijn niet mag gebruikt worden om jou vrienden te helpen in de onderwereld. Word dit gezien? is dit op staande voet ontslag en een opvolgende sanctie.
