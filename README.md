@@ -457,19 +457,23 @@ Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitt
 3. Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
  
 
-Artikel 10.1B: Gang wars )
-Hierbij een korte uitleg en regels van een gang war:
+Artikel 10.1B: Gang wars 
 
+Hierbij een korte uitleg en regels van een gang war:
 -Initiatie
+
 Enkel leiders van criminele groeperingen (hierna: Gang Bazen) zijn in staat om de oorlog tussen twee gangs te verklaren.
 
 -Levens
+
 Alle leden die in éen gang war mee doen, heeft 1 leven. Zodra je dood bent, is het verboden om nogmaals te mengen in de oorlog (new life rule.)
 
 -Kills van politie
+
 Zoals hierboven beschreven tellen kills van politie ook mee in een gang war omdat dit in hetzelfde tijdsperiode gebeurt.
 
 -Beëindiging
+
 1.Een gangwar zal opgeschort worden als deze langer dan 48 uur heeft geduurd, als 1 van de 2 gangs zich overgeeft, of als alle leden van 1 gang hun levens hebben verbruikt.
 2.Indien je onbewust voor de 2de keer wordt doodgeschoten in een gang war omdat je op een bepaalde plek bent, is dit op eigen risico. Ben je dood geweest in een gang war en ga je voor de 2de keer mengen zal dit bestrafd worden.
  
@@ -496,6 +500,7 @@ Artikel 10.3: Het rippen van wapens & drugs
 Wapens van elk kaliber mogen worden geript, hier nog wat kleine regels:
 Het is mogelijk om een wapen van groter kaliber te rippen met een kleiner kaliber wapen.
 o  Slag-/steekwapens mogen; alleen slag-/steekwapens rippen.
+
 LET OP(!): Je mag niet wegrennen van een mesje terwijl je een vuurwapen vast hebt, dit geldt niet op het eiland.
 
 Wat extra regels voor het rippen van een wapen(s)/drugs:
@@ -505,7 +510,7 @@ Wat extra regels voor het rippen van een wapen(s)/drugs:
 4. Als je iemand overvalt voor zijn/haar drugs moet je die persoon hebben zien kloppen, callouts tellen alleen als er videobewijs is dat het wapen is gezien.
 5. Als je een persoon doodschiet omdat hij niet meewerkt word je refund afgekeurd.
 
-Wanneer mag je nou precies rippen:
+Wanneer mag je nou precies rippen?
 Je mag een burger enkel overvallen/rippen wanneer hij/zij aantoonbaar met de Onderwereld bezig is.
 
 Enkele voorbeelden hiervan zijn:
