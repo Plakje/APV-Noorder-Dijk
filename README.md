@@ -438,7 +438,6 @@ Basis van de onderwereld
 - Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
 - Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
 - Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen   
- LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat gebruiken.
 
 27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
 
