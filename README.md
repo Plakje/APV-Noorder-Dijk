@@ -425,11 +425,11 @@ Basis van de onderwereld
 
 22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren. Snel je kleding te veranderen, je huidige auto in de garage zetten en een nieuwe auto pakken., je appartement in vluchten.
 
-23.Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
+23. Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
 
-24.Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
+24. Het is verboden om ingenomen wapen(s) proberen te rippen van agenten als die wapens niet zijn afgepakt van jou groep/gang.
 
-25.Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
+25. Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
 
 26. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
 
