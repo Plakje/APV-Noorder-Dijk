@@ -423,10 +423,7 @@ Basis van de onderwereld
 
 21. Criminele activiteiten in een appartement zijn verboden. Denk hieraan het oplichten van mensen, opkopen en verkopen van drugs, vermoorden of ontvoeren van een persoon, en het verkopen en/of inkopen van wapens.
 
-22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren;
--Snel je kleding te veranderen.
--Je huidige auto in de garage zetten en een nieuwe auto pakken.
--Je appartement in vluchten.
+22. Tijdens een achtervolging is het ten alle tijden niet toegestaan om de volgende handelingen uit te voeren. Snel je kleding te veranderen, je huidige auto in de garage zetten en een nieuwe auto pakken., je appartement in vluchten.
 
 23.Politie mag de wapens pas “vernietigen” 10 minuten na het verlaten van de locatie en ze niet meer worden gevolgd. De Crimineel moet voordat de Politie/Kmar op HB komt wel kenbaar maken dat er een achtervolging bezig is, zodat ze niet per ongeluk omdat ze je niet hebben gezien HB in gaan.
 
@@ -434,28 +431,21 @@ Basis van de onderwereld
 
 25.Als jij in je benen bent geschoten en je geeft jezelf over (handen omhoog), mag jij niet meer je handen omlaag doen om te schieten. Tenzij mede-criminelen de agenten/criminelen overmeesteren.
 
-26.Het is verboden om als third-party te mengen in een achtervolging of scenario (bank/gijzeling/winkeltje) als de politie aanwezig is.
-- Je mag niet achtervolgen/schaduwen bij een achtervolging met Politie/Kmar/DSI.
-- Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
-- Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen   
+26. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
 
-27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
+27. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
 
-28. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
+28. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
 
-29. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
+29. Er zit geen maximum bedrag aan het scammen in de onderwereld.
 
-30. Er zit geen maximum bedrag aan het scammen in de onderwereld.
+30. Vuurwapens mogen alle vuurwapens rippen.
 
-31. Vuurwapens mogen alle vuurwapens rippen.
-
-32. Het Campen van start locaties is niet toegestaan.
+33. Het Campen van start locaties is niet toegestaan.
 
 33. Het is toegestaan om te ontsnappen uit het cellencomplex. Hierbij is het wel noodzakelijk dat er een geldig roleplay scenario uitgevoerd wordt.
-  LET OP(!): Het is niet toegestaan om een uit-dienst-politiemedewerker te ontvoeren met als doel deze in dienst te melden om zodoende iemand uit de gevangenis te breken.
-34. Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
-LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
 
+34. Er mag alleen opgelicht worden met spullen die gebruikt worden door criminelen, denk hierbij aan drugs, geld, wapens en attachments.
 
 Artikel 10.1A: Criminele organisaties 
 Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen. Het meelopen met een gang mag enkel als hier plek voor is.
