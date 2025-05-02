@@ -172,7 +172,7 @@ Dit zijn Enkel Voorbeeld van Cat 4:
 Terugschieten / steken op een persoon of voertuig een gericht wapen op je heeft of je overmeesterd / gehandsupt bent.
 
 
-Artikel 2.10: New Life Rule: (Straf Categorie 1 t/m 3)
+Artikel 2.10: New Life Rule: 
 Het is verboden om dingen te onthouden van voor je dood/nachtmerrie bv:
 1. Locaties van bepaalde situaties.
 2. Wie je van het leven heeft ontnomen.
@@ -198,7 +198,7 @@ Enkele voorbeelden van wat nog meer niet mag:
 4. Je dient een auto te pitten en niet total loss te beuken, je speelt dus geen Rocket League.
 
 
-Artikel 3.2: Vehicle Deathmatch (VDM) (Straf Categorie 3 t/m 9)
+Artikel 3.2: Vehicle Deathmatch (VDM) 
 Je voertuig gebruiken als een wapen is ten allertijden niet toegestaan.
 
 Enkel voorbeeld van VDM:
@@ -229,7 +229,7 @@ Deze voertuigen dien je voor je werk te gebruiken, niet om zo maar door de stad 
 
 Artikel 4: Het gebruik van wapens
 
-Artikel 4.1: RDM (Random Death Match) (Straf Categorie 3 t/m 9)
+Artikel 4.1: RDM (Random Death Match) 
 Je dient mensen met een geldige reden om het leven te brengen.
 
 Enkele voorbeelden van een RDM:
@@ -293,7 +293,7 @@ Het gebruiken van stemvervormers is toegestaan mits hier voldoende aanleiding vo
 
 Artikel 6: Ongepast Taalgebruik
 
-Artikel 6.1: Taalgebruik (Straf Categorie CAT1:4, CAT2:5, CAT3:6)
+Artikel 6.1: Taalgebruik 
 Hij/zij die ongepast taalgebruik gebruikt, zal worden gestraft met een ban.
 
 Enkele voorbeelden van ongepast taalgebruik zijn:
@@ -315,7 +315,7 @@ Bij overtreding: Straf volgens de 6e categorie.
 LET OP(!): Dit geldt ook voor in tickets.
 
 
-Artikel 6.2: Haat veroorzakend/toxic gedrag (Straf 550 taken)
+Artikel 6.2: Haat veroorzakend/toxic gedrag 
 Het is niet de bedoeling dat je toxic gedrag vertoond in scenario’s of tegen personen Bedreigen en intimideren word ook niet toegestaan.
 Dit geldt ook voor in de discord en daarbuiten.
 Verder is het niet toegestaan, om staffleden uit te schelden of te beledigen buiten of ingame.
@@ -327,14 +327,14 @@ Artikel 7: Twitter
 
 Het gebruik van Twitter is simpel, Het is niet de bedoeling om te spammen op Twitter.
 
-Artikel 7.1: Illegale activiteiten via Twitter (Straf Categorie 3)
+Artikel 7.1: Illegale activiteiten via Twitter 
 Het plaatsen van illegale activiteiten (wapenhandel, drugs, en illegale locaties) op social media (m.u.v. Dark Web & Messages) is niet toegestaan. Ook het plaatsen van codewoorden die wel oproepen tot bovengenoemde activiteiten – zoals “Gezocht: Metaal” – is verboden.
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Artikel 8: Scammen (Straf Categorie 1 t/m 9)
+Artikel 8: Scammen 
 Het is niet toegestaan om te scammen met voertuigen.
 Wanneer je een voertuig koopt, ben je zelf verantwoordelijk om te controleren of de aangeboden upgrades van toepassing zijn bij het uitwisselen van het geldbedrag en de auto, dit zal via een koopcontract uitgevoerd gaan worden. (te koop bij de anwb.)
 Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er vindt ook geen refund/transfer plaats, wanneer iemand gebanned is.)
@@ -344,7 +344,7 @@ Het uitlenen van bezittingen is op eigen risico. Hier refunden we niet voor (er 
 
 
 Artikel 9: Staff & reports
-Artikel 9.1: Manier van gebruik /Report (Straf Categorie 1 t/m 2)
+Artikel 9.1: Manier van gebruik /Report 
 
 Wanneer een burger hulp nodig heeft in de stad, dan kan er gebruik gemaakt worden van “/report (uitleg)”. Het aanmaken van slechts 1 report per 4 minuten is toegestaan.
 Reports dienen duidelijk verwoord te zijn.
@@ -352,18 +352,18 @@ Voor RDM, VDM, metagaming en combatloggen hoef je geen report aan te maken. Hier
 Wanneer je meer dan 3 reports binnen 1 minuut achter elkaar verstuurt valt dit onder spammen.
  
 
-Artikel 9.2A: Eerlijkheid tegen staff (Straf Categorie 9)
+Artikel 9.2A: Eerlijkheid tegen staff 
 Het is ten allertijden verboden om te liegen tegen staff, echter is informatie achterhouden ook verboden.
 Zodra een stafflid jou iets vraagt, verwachten we dus ook dat jij naar alle waarheid de informatie verstrekt.
 
  
 
-Artikel 9.2B: Voordoen als staff (Straf Categorie 1 t/m 3)
+Artikel 9.2B: Voordoen als staff 
 Het is verboden om jezelf voor te doen als stafflid en/of uitspraken te gebruiken om als stafflid over te komen.
 
  
 
-Artikel 9.3: Staff abuse (Straf Categorie 9)
+Artikel 9.3: Staff abuse 
 Het is verboden om oneerlijke voordelen naar jezelf toe te halen als staff of dergelijken.
 
 Enkele voorbeelden van Staff abuse:
@@ -376,7 +376,7 @@ Enkele voorbeelden van Staff abuse:
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-Artikel 10: Onderwereld (Straf Categorie 1 t/m 9)
+Artikel 10: Onderwereld
 Basis van de onderwereld
 1. Dood is dood, dit houdt in als je dood bent gegaan dat je niet meer mee kunt doen met een wraakactie. Daarbij is het ook niet toegestaan om inlichtingen van de persoon in kwestie te verstrekken. Je mag de gehele wraakactie en de dagen erna niet meedoen. Dit geldt voor gangwars en hunt-sessies.
 2. Indien je een persoon hebt geript, mag je deze persoon niet vermoorden. Mocht hij zich niet gedragen/uitdagen, mag je hem vermoorden (dit is zijn/haar eigen risico).
@@ -426,7 +426,7 @@ Basis van de onderwereld
 - Setups mogen gecounterd worden door rivaliserende gangs/criminelen (Eigen Risico), ongeacht de situatie en of hulpdiensten betrokken zijn.
 
 - Als er later pas politie aankoppelt in een scenario tussen rivaliserende gangs/groepen en een groepering koppelt af, mag je de 30 minuten reden aanhouden zoals hieronder vermeld in Artikel 11.3: Het rippen van wapens & drugs. Heb je er niks mee te maken? Afkoppelen   
- LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat        gebruiken.
+ LET OP(!): Als je iemand criminele activiteiten ziet plegen, mag je dit als reden voor een overval tot maximaal 30 minuten nadat het doelwit uit beeld gaat gebruiken.
 27. Het vastbinden met /me bind vast is niet voldoende, hiervoor heb je tiewraps.
 28. Het afpakken van communicatie met /me pakt comms is niet voldoende, dit moet je afpakken/laten droppen.
 29. Er zit geen maximum bedrag aan wat je mag rippen van andere spelers.
@@ -439,7 +439,7 @@ Basis van de onderwereld
   LET OP(!): Het kan zijn dat bepaalde dingen beschreven in Basis regels Onderwereld ook in andere artikelen staan, dan zal de strafcategorie van het subartikel gebruikt worden, staat die nergens anders? Zal het worden bestrafd onder de strafcategorie van Artikel 11.
 
 
-Artikel 10.1A: Criminele organisaties (Straf Categorie – Onderwereld Coördinatoren bepalen)
+Artikel 10.1A: Criminele organisaties 
 Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt gebaseerd op de ontwikkelingen binnen de stad en kunnen dus periodiek veranderen. Het meelopen met een gang mag enkel als hier plek voor is.
 
 Meer informatie over het samenwerken van criminele organisaties
@@ -449,7 +449,7 @@ Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitt
 3. Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
  
 
-Artikel 10.1B: Gang wars (Straf Categorie – Onderwereld Coördinatoren bepalen)
+Artikel 10.1B: Gang wars )
 Hierbij een korte uitleg en regels van een gang war:
 
 -Initiatie
@@ -466,7 +466,7 @@ Zoals hierboven beschreven tellen kills van politie ook mee in een gang war omda
 2.Indien je onbewust voor de 2de keer wordt doodgeschoten in een gang war omdat je op een bepaalde plek bent, is dit op eigen risico. Ben je dood geweest in een gang war en ga je voor de 2de keer mengen zal dit bestrafd worden.
  
 
-Artikel 10.1C: Wraakacties (Straf Categorie – Onderwereld Coördinatoren bepalen)
+Artikel 10.1C: Wraakacties 
 Het is alleen toegestaan om een wraakactie uit te voeren als er in roleplay bewijs is verzameld.
 
 Het is verboden om een wraakactie uit te voeren tegen whitelisted jobs.
@@ -475,7 +475,7 @@ LET OP(!): De tijdsduur hiervoor is maximaal een week.
 
  
 
-Artikel 10.2: Fouilleren (Straf Categorie 3)
+Artikel 10.2: Fouilleren
 
 De regels voor het fouilleren:
 Je kunt alleen mensen fouilleren als je in het bezit bent van een wapen.
@@ -483,7 +483,7 @@ Bij het rippen van drugs, geld of wapens dien je visueel beeld te hebben van de 
 o  Of hij/zij moet een holster, kogelwerend vest of gezichtsbedekkende kleding hebben dan hoef je een wapen niet fysiek te zien.
  
 
-Artikel 10.3: Het rippen van wapens & drugs (Straf Categorie 3 t/m 4)
+Artikel 10.3: Het rippen van wapens & drugs
 
 Wapens van elk kaliber mogen worden geript, hier nog wat kleine regels:
 Het is mogelijk om een wapen van groter kaliber te rippen met een kleiner kaliber wapen.
@@ -531,7 +531,7 @@ Indien er zonder reden/onterecht geript is, zal de desbetreffende staff lid (Mod
 
 Weet je dat je onterecht geript word/bent? Ga dan niet een wapen trekken/schieten, zodat je hun geen extra reden geeft of je refund afgekeurd wordt (Geen eigen rechter spelen). Werkt er iemand niet mee? Loop/Rijdt gewoon weg en los het achteraf op! 
 
-Artikel 10.4: Overvallen (Straf Categorie 2 t/m 3)
+Artikel 10.4: Overvallen 
 Een Jacht, Bank of winkel OV bieden wij in Future, hieronder wat regeltjes:
 1. Gegijzelde mensen mogen ten alle tijden geen vriend of bekende zijn. Er mag geen overval gestart worden binnen een uur voor een server herstart. (05.00 ~ 06.00)
 2. Het is niet toegestaan nadat je succesvol een overval heb gepleegd om als crimineel binnen 5 minuten in een achtervolging al een setup te zetten.
@@ -553,7 +553,7 @@ Voor het verkrijgen van hostages worden de volgende regels gehanteerd:
 5. Een onderhandelaar mag niet worden beschoten of worden gegijzeld tijdens een onderhandeling.
  
 
-Artikel 10.5: Criminele activiteiten tegen overheidsmedewerkers (Straf Categorie 3)
+Artikel 10.5: Criminele activiteiten tegen overheidsmedewerkers 
 Overheidsmedewerkers werken om de stad in veilig te houden en zijn er om alle burgers te helpen.
 Regels omtrent gedrag tegen overheidsmedewerkers.
 
@@ -563,7 +563,7 @@ Daarom zijn er regels omtrent het gedrag tegen de overheidsmedewerkers:
 3. Je mag als je geen ambtenaar bent, geen overheidsvoertuigen stelen en besturen. Tenzij je gewapend bent in een scenario.
  
 
-Artikel 10.6: Oplichting (Straf Categorie 6-8)
+Artikel 10.6: Oplichting 
 Met betrekking tot de volgende onderdelen is oplichten verboden en resulteert in een straf:
 1. Het stelen/overvallen van bankgeld.
 2. Baan gerelateerde voorwerpen.
@@ -573,7 +573,135 @@ Met betrekking tot de volgende onderdelen is oplichten verboden en resulteert in
 (Scammen met voertuigen zal een ban van 6 maanden + een volledige account wipe opleveren!)
 6. Autohandel is verboden bij illegale activiteiten.
 Je mag dus geen auto en geld ruilen voor een wapen.
-8. Oplichten van loodsen mag in alle vormen niet! (Altijd Cat-8 of hoger)
+8. Oplichten van loodsen mag in alle vormen niet! 
 9. Het joinen van een gang om vervolgens binnen 4 weken wapens of gangleden te rippen, is niet toegestaan.
 10. Het rippen van een eigen ganglid dat binnen 4 weken is gejoined, is niet toegestaan.
 Spullen stelen/rippen uit een appartement van iemand anders.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 11: Het eiland
+Simpel, geweldadig, veel gevaar en weinig regels. Artikel 12.1: Rippen eiland
+
+Voor het rippen op het eiland zijn de volgende regels van toepassing:
+1. Op het eiland is het toegestaan om alle goederen die onderwereld gerelateerd zijn te rippen zonder ze gezien te hebben.
+2. Ieder wapen mag ieder wapen rippen (dit geldt alleen voor het eiland) Het is ook toegestaan om de betreffende personen dood te schieten nadat je ze beroofd.
+
+
+Artikel 11.2: RDM op eiland 
+ Op het eiland mag je personen vermoorden als je hier een geldige reden voor hebt. Op het eiland mag jij personen wegsturen die geen zaken bij jou doen. Verlaten ze het eiland niet? Dan mag jij betreffende personen vermoorden. Indien je geen geldige reden hebt, dan wordt het bestempeld als RDM.
+
+
+Artikel 11.3: Samenwerking criminele organisaties 
+Het is niet toegestaan voor zowel officiële en onofficiële groeperingen om samen te werken op het eiland.
+
+
+Artikel 11.4: Landen van helikopters/vliegtuigen 
+Het landen van helikopters/vliegtuigen is toegestaan mits het op een normale manier gebeurd. De regels van de vliegschool zijn hiervoor van toepassing:
+1. De landingslocatie moet vrij zijn van objecten die mogelijk hinder vormen, denk hierbij aan powerlines, daken, lantaarnpalen.
+2. De landingslocatie mag geen weg zijn.(Exclusief Helikopters)
+3. Voor het vliegruim en de landingslocatie mag er geen ander vliegtuig of helikopter in een straal van 100 meter in de buurt zijn.
+4. Als je afstand wil doen van je voertuig door er uit te springen, dient dit boven de zee te gebeuren om te parachuteren.
+
+
+Artikel 11.5: KMAR/Politie op eiland 
+De DSI mag speciale operaties uitvoeren op het eiland mits hier voldoende aanleiding voor is. Het uitvoeren van dergelijke operaties mag alleen indien Korpschef hiervoor goedkeuring voor geeft. Er mag maximaal twee keer goedkeuring gegeven worden op één dag.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Artikel 12: Bovenwereld 
+
+Elke overheidsdienst heeft hun eigen basisregels, is er iets wat echt niet door de beugel kan? Vraag naar een leidinggevende binnen de overheidsdienst.. Worden er APV regels overtreden? Ook hun moeten de APV regels volgen, overigens hier nog wat regels over corruptie.
+
+Wat valt allemaal onder corruptie?:
+1. Op het moment dat je geld betaald aan een Ambulancier, Politie, KMAR of ANWBer om eerder naar een melding te komen of een Prive bericht te sturen krijg je hiervoor een sanctie.
+2. Op het moment dat je geld aanneemt om eerder naar een melding te gaan als Ambulancier, Politie, KMAR of ANWBer.
+3. Money Farmen bij een overheidsbaan.
+4. Het doen van criminele zaken als uitdienst overheidsbaan.
+  Met mensen in de auto zitten die criminele zaken doen is ook verboden.
+5.Het hangen op gang terrein in-/uitdienst, je mag wel gewoon je meldingen daar doen.
+6.Het verduisteren van items of geld als politie/kmar. Zeer gevoelige informatie doorspelen naar onderwereld spelers, denk hierbij aan;
+  MEOS informatie doorspelen.
+  Documenten/Informatie doorspelen.
+7.Het is niet de bedoeling dat je in dienst auto’s gaat kopen of testen.
+8.Het is verboden om hulpdiensten toe te sporen tot corruptie.
+LET OP(!): Er is wel meer wat onder corruptie valt; laten we het erophouden dat alles wat jou diensten zijn niet mag gebruikt worden om jou vrienden te helpen in de onderwereld. Word dit gezien? is dit op staande voet ontslag en een opvolgende sanctie.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Artikel 14: Regels in de lucht
+Het is enkel toegestaan om te vliegen met een geldig vliegbrevet!
+
+Artikel 14.1: Landen 
+U probeert alleen op plekken te landen waar dit in de realiteit ook mogelijk is. Hierbij denk u aan ruimte, eigen veiligheid en de veiligheid van het toestel. De ondergrond moet aan de volgende eisen voldoen:
+
+Hierbij de eisen waar je aan moet voldoen:
+1. Het is niet toegestaan om op drukke wegen te landen
+2. Het is niet toegestaan om op onverharde ondergrond te landen.
+3. De ondergrond moet recht zijn, denk hierbij aan heuvels / hellingen die onrealistisch zijn om stabiel op te kunnen landen.
+4. De landing locatie moet vrij zijn van objecten die mogelijk hinder vormen binnen een straal van 75 meter, denk hierbij aan powerlines, daken en lantaarnpalen, dit geldt ook voor op gangterreinen.
+5. Het is verboden om te landen op het vliegdekschip of de militaire basis, ook moet je er om heen vliegen.
+Bij het achterlaten van een onbemand voertuig op een ongeschikte locatie is de Politie bevoegd het voertuig in beslag te nemen. (Dit moet goedgekeurd worden op een locatie door een Hovj+ of een Senior vlieginstructeur)
+
+
+Artikel 14.2: Vlieghoogte 
+U dient de gehele vlucht op een realistische en veilige hoogte te blijven. (50 meter boven het gebouw onder je of van een gebouw af)
+
+
+Artikel 14.3: Terreur met vliegtoestel 
+Het is op geen enkele manier toegestaan om je vliegtoestel ergens tegenaan te beuken met opzet en of te gebruiken als een wapen.
+Regels op het Duistere Eiland voor vliegtoestellen zoals aangegeven in Artikel 12.4 
+1. De landingslocatie moet vrij zijn van objecten die mogelijk hinder vormen binnen een straal van 50 meter, denk hierbij aan powerlines, daken, lantaarnpalen.
+2. De landingslocatie mag geen weg zijn.(Exclusief Helikopters)
+3. Voor het vliegruim en de landingslocatie mag er geen ander vliegtuig of helikopter in een straal van 100 meter in de buurt zijn.
+4. Als je afstand wil doen van je voertuig door er uit te springen, dient dit boven de zee te gebeuren om te parachuteren.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Voertuig regels
+Offroad voertuigen
+
+Binnen Noorderdijk mogen enkel SUV voertuigen en crossmotoren offroad, wanneer je met een ander voertuig offroad gaat valt dit onder artikel 4.3 – GTA Drivestyle.
+
+Onder off-road wordt verstaan grond waarop gereden wordt die bestaat uit gras, zand of modder waarbij geen zichtbaar pad of weg beschikbaar is.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Overige algemene regels binnen Noorderdijk
+Steamnamen van Noorderdijk Staffleden.
+
+Het is verboden om de naam van een Noorderdijk Stafflid te gebruiken binnen Noorderdijk Roleplay, ook is het niet toegestaan om Games4Real IS CORRUPT te heten om een persoon zwart te maken. Bodycams Het is toegestaan om bodycam beelden te gebruiken ter informatie.
+
+Hierbij kun je denken aan de volgende situaties:
+1. Overheidsdiensten zijn uitgerust met bodycams die gebruikt kunnen worden.
+2. Medewerkers van alle overheidsdiensten zijn verplicht bodycams visueel te dragen als ze bewijs willen gebruiken.
+3. Burgers kunnen met hun telefoon video’s en/of foto’s maken als bewijs.
+
+Discord
+Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken. Als je met meerdere personen in de stad zit, is streamen niet toegestaan. Daarnaast is het ook noodzakelijk om tijdens een scenario altijd gedempt en onhoorbaar in Discord te zitten. Indien personen deze regels verbreken, wordt dit gezien als Artikel 2.3 - Metagaming
+
+Remake / Lookalike van Future Roleplay
+Het is verboden om op welke manier dan ook zelf een remake of lookalike van Future te maken(!). Het is verboden om deel uit te maken van het staff/dev/management/bestuur/etc. team op een remake of lookalike van Future(!).
+
+Demonstreren
+Indien je wilt demonstreren in grotere groepen, dan mag dit mits:
+1. Een schriftelijke toestemming is gegeven van staff.
+2. Een persoon de leiding heeft in deze demonstratie.
+3. Een aangewezen plek is voor de demonstratie.
+
+Erotische Roleplay
+Het is verboden om Erotische roleplay uit te voeren en/of aan te gaan. Als enige uitzondering wordt gemaakt het dansen als danser in een club met een bepaalde grens. 
+
+Refunds
+ Wat moet je nou precies hebben om in aanmerking te komen voor een refund?
+1. IDs op je clip.
+2. Een clip van eigen perspectief.
+3. Je clip moet geluid hebben.
+4. Bewijs van wat er in je auto zat/bewijs wat je op zak had.
+5. Bewijs dat je respawned (mocht je dood zijn gegaan)/Bewijs dat je de betreffende spullen afgenomen of ingenomen werden.
+LET OP(!): Jij/jou gangmag zelf geen enkele APV regel breken in je clip. Ongeacht hoe erg de overtreding is die gemaakt word, de refund zal worden afgekeurd als dit gebeurd.
+LET OP(!): Op het moment dat je geld/items/voertuigen moet inleveren, en deze niet meer in jou bezit zijn. Behouden wij het recht om deze spullen in een andere vorm van ingame afname te verwerken.
+
+Een voorbeeld is bij het scammen van 100.000 euro, kan een stafflid een voertuig met de waarde van ongeveer 100.000 euro afnemen, heb jij alleen duurdere spullen? Zal dit afgenomen worden en krijg je geen vergoeding.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
