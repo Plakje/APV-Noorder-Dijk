@@ -9,7 +9,7 @@ Enkele voorbeelden van Cheats/Externe Software zijn:
 2. Bypass Methods, Tools die traces verwijderd bijv. USBOblivion of soortgelijke tools.
 3. Spoofing software.
 4. Graphics packs – Voordeel halen uit graphics packs is niet toegestaan, zoals geen/kleine bosjes.
-5. Stretched spelen – Bij Future is alleen Aspect Ratio 16:10 en 16:9 toegestaan.
+5. Stretched spelen – Bij Noorderdijk is alleen Aspect Ratio 16:10 en 16:9 toegestaan.
 6. Het gebruik van BetterDiscord.
 7. Het aanpassen van jouw FOV in F8 menu is niet toegestaan.
 
@@ -120,8 +120,8 @@ Je mag niet zonder enige redens op mensen hun terrein, denk aan:
 Artikel 2.5: Metagamen
 Gekregen informatie OOC (Buiten Karakter) mag je niet gebruiken IC (In Character)
 Enkele voorbeelden van Metagaming zijn:
-Als je je bevind in Future Roleplay dien je niet te schermdelen in een discord.
-Als je je bevind in Future Roleplay dien je muted & deafened te zijn in discord.
+Als je je bevind in Noorderdijk Roleplay dien je niet te schermdelen in een discord.
+Als je je bevind in Noorderdijk Roleplay dien je muted & deafened te zijn in discord.
 Het versturen van ingame informatie in een discord wordt gezien als meta.
 Informatie verkrijgen over een scenario, locatie of andere ingame zaken buiten karakter.
 Streamsniping valt ook onder Metagaming en zal zwaarder vallen.
@@ -348,7 +348,7 @@ Artikel 9.1: Manier van gebruik /Report
 
 Wanneer een burger hulp nodig heeft in de stad, dan kan er gebruik gemaakt worden van “/report (uitleg)”. Het aanmaken van slechts 1 report per 4 minuten is toegestaan.
 Reports dienen duidelijk verwoord te zijn.
-Voor RDM, VDM, metagaming en combatloggen hoef je geen report aan te maken. Hiervoor dien je een ticket aan te maken in de support Discord van Future. Wees altijd zo volledig mogelijk.
+Voor RDM, VDM, metagaming en combatloggen hoef je geen report aan te maken. Hiervoor dien je een ticket aan te maken in de support Discord van Noorderdijk. Wees altijd zo volledig mogelijk.
 Wanneer je meer dan 3 reports binnen 1 minuut achter elkaar verstuurt valt dit onder spammen.
  
 
@@ -463,7 +463,7 @@ Een gang mag maximaal 23 leden en 2 hangarounds hebben. De hoeveel leden wordt g
 
 Meer informatie over het samenwerken van criminele organisaties
 Het is niet toegestaan om samen te werken met burgers die niet in jouw gang zitten zonder goedkeuring.
-1. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Future.
+1. Het is mogelijk om goedkeuring te krijgen voor een scenario met meerdere groeperingen indien dit is aangevraagd bij een onderwereld coördinatoren van Noorderdijk.
 2. Uitzondering op deze regel is er voor het kopen en verkopen van goederen zoals drugs en wapens aan elkaar.
 3. Het is ten strengste verboden om nepmeldingen in, op, en rondom gang locaties en/of ganghuizen te maken, om zo de Politie en/of Koninklijke Marechaussee daarheen te lokken, word extra bestrafd met Artikel 2: Foutieve Roleplay – Powergaming.
  
@@ -551,7 +551,7 @@ Indien er zonder reden/onterecht geript is, zal de desbetreffende staff lid (Mod
 Weet je dat je onterecht geript word/bent? Ga dan niet een wapen trekken/schieten, zodat je hun geen extra reden geeft of je refund afgekeurd wordt (Geen eigen rechter spelen). Werkt er iemand niet mee? Loop/Rijdt gewoon weg en los het achteraf op! 
 
 Artikel 10.4: Overvallen 
-Een Jacht, Bank of winkel OV bieden wij in Future, hieronder wat regeltjes:
+Een Jacht, Bank of winkel OV bieden wij in Noorderdijk, hieronder wat regeltjes:
 1. Gegijzelde mensen mogen ten alle tijden geen vriend of bekende zijn. Er mag geen overval gestart worden binnen een uur voor een server herstart. (05.00 ~ 06.00)
 2. Het is niet toegestaan nadat je succesvol een overval heb gepleegd om als crimineel binnen 5 minuten in een achtervolging al een setup te zetten.
 3. Op het moment dat Politie | Kmar aanwezig is bij een overval, mag je niet meer de overval counteren.
@@ -696,8 +696,8 @@ Hierbij kun je denken aan de volgende situaties:
 Discord
 Het is niet toegestaan om externe discords te gebruiken voor roleplay gerelateerde zaken. Als je met meerdere personen in de stad zit, is streamen niet toegestaan. Daarnaast is het ook noodzakelijk om tijdens een scenario altijd gedempt en onhoorbaar in Discord te zitten. Indien personen deze regels verbreken, wordt dit gezien als Artikel 2.3 - Metagaming
 
-Remake / Lookalike van Future Roleplay
-Het is verboden om op welke manier dan ook zelf een remake of lookalike van Future te maken(!). Het is verboden om deel uit te maken van het staff/dev/management/bestuur/etc. team op een remake of lookalike van Future(!).
+Remake / Lookalike van Noorderdijk Roleplay
+Het is verboden om op welke manier dan ook zelf een remake of lookalike van Noorderdijk te maken(!). Het is verboden om deel uit te maken van het staff/dev/management/bestuur/etc. team op een remake of lookalike van Noorderdijk(!).
 
 Demonstreren
 Indien je wilt demonstreren in grotere groepen, dan mag dit mits:
